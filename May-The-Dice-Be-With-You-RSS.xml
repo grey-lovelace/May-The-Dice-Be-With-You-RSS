@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>May The Dice Be With You</title>
+		<link>https://www.facebook.com/groups/2443468275889887/</link>
+		<description>Live play podcast using the Fantasy Flight Games Star Wars Role Playing System.</description>
+		<item>
+			<title>Episode I</title>
+			<link>example.com/3</link>
+			<guid>example.com/3</guid>
+			<pubDate>Sat, 7 July 2019 12:00:00 GMT</pubDate>
+			<description>Episode 1</description>
+		</item>
+	</channel>
+</rss>
