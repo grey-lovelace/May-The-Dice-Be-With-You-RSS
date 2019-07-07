@@ -5,11 +5,11 @@
 		<link>https://www.facebook.com/groups/2443468275889887/</link>
 		<description>Live play podcast using the Fantasy Flight Games Star Wars Role Playing System.</description>
 		<item>
-			<title>Episode I</title>
-			<link>example.com/3</link>
-			<guid>example.com/3</guid>
+			<title>Prelude</title>
+			<link>https://matthewsmobility.com/wp-content/uploads/2019/07/001-SW-Game-Prelude.m4a</link>
+			<guid>https://matthewsmobility.com/wp-content/uploads/2019/07/001-SW-Game-Prelude.m4a</guid>
 			<pubDate>Sat, 7 July 2019 12:00:00 GMT</pubDate>
-			<description>Episode 1</description>
+			<description>Prelude</description>
 		</item>
 	</channel>
 </rss>
